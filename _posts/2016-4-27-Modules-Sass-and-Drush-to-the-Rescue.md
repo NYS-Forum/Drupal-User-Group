@@ -13,7 +13,9 @@ We have included the links to their sites and their presentations below:
 
 **[Eric Steinborn](http://ericsteinborn.com)** - Drush: A Real Lifesaver
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SVVKgOm1ms8" frameborder="0" allowfullscreen></iframe>
+<div class="wrapper-video">
+    <iframe src="https://www.youtube.com/embed/SVVKgOm1ms8" frameborder="0" allowfullscreen></iframe>
+</div>
 
 **Time Stamps:**
 
