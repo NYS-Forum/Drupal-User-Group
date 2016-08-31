@@ -22,3 +22,7 @@
  - Easily target elements with the new classy base theme 
  - Rwd built in
  - Rwd images built in
+
+# Call for participation
+
+# Accesibility
